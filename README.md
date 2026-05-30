@@ -1,2 +1,0 @@
-# NunaStore
-Nunastore
